@@ -1,6 +1,6 @@
 # -*-coding:utf-8 -*
 
-# Programme testant si une année, saisie par l'utilisateur, est bissextile ou non
+### Programme testant si une année, saisie par l'utilisateur, est bissextile ou non ###
 
 
 # On importe le module os qui dispose de variables 

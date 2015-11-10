@@ -4,9 +4,8 @@
 
 import os
 
-#C:\Users\Bacchus\www\python\packages\modules\module_de_test
 
-from packages.modules.module_de_test.fonctions_diverses import afficher_flottant
+from fonctions_diverses import afficher_flottant
 
 # On attend que l'utilisateur saisisse le nombre flottant qu'il désire tester
 flotteur = float(input("Saisissez un nombre flottant : ")) 
